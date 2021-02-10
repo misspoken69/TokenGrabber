@@ -1,4 +1,4 @@
-Easy Webhook Token Grabber, Forked By Misspoken#9504
+Easy Webhook Token Grabber, Made By Misspoken#9504
 
 # How to use
  1. Create a webhook on your Discord server. I recommend creating a new server.
